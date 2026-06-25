@@ -64,7 +64,7 @@ Mi objetivo es crecer como desarrolladora de software, adquirir experiencia en p
 
 ## 📫 Contacto
 
-- 📧 Correo: tu-correo@ejemplo.com
+- 📧 Correo: vannesasanabria83qgmail.com
 - 💼 LinkedIn: Agrega tu perfil de LinkedIn
 - 🌐 GitHub: https://github.com/TU-USUARIO
 
